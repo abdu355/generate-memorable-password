@@ -12,7 +12,4 @@
   },
   "author": "Lucas Chen",
   "license": "MIT",
-  "engines": {
-    "node": "^8.9.0 || ^9.0.0 || ^10.0.0"
-  }
 }
