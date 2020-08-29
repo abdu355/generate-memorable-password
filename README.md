@@ -1,3 +1,5 @@
+
+Forked from https://www.npmjs.com/package/generate-memorable-password
 # Memorable Password Generator
 
 Currently not very secure; however, it dose generate some pretty neat passwords.
